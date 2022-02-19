@@ -1,3 +1,1 @@
-# basic-counter
-Uses 3 buttons to increase, decrease or reset value
-The css file is not created by me
+This are my project. You can access them trough the branches
