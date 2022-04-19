@@ -1,1 +1,1 @@
-This are my projects. You can access them trough the branches
+Weather application, using API from https://openweathermap.org.
