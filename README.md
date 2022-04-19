@@ -1,1 +1,1 @@
-This are my projects. You can access them trough the branches
+These are my JS projects. You can access them trough the branches
